@@ -1,29 +1,190 @@
-<h1 align="center">Hi 👋, I'm Delwar Hossain</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Delwar%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delwarjnu11&label=Profile%20views&color=0e75b6&style=flat" alt="delwarjnu11" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Python+%7C+Django+%7C+PHP;Problem+Solver+%26+Open+Source+Contributor" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Fashion Shop](https://fashion-shop1.web.app/)
+---
 
-- 🌱 I’m currently learning **React Native**
+## 🐍 Watch the Snake Eat My Contributions
 
-- 👯 I’m looking to collaborate on [SquaDrone](https://squadrone1.web.app/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-- 👨‍💻 All of my projects are available at [https://delwar-hossain.netlify.app/](https://delwar-hossain.netlify.app/)
+---
 
-- 💬 Ask me about **JavaScript,React**
+## 💡 About Me
 
-- 📫 How to reach me **delwarjnu24@gmail.com**
+- 🔭 Currently working on **Full Stack Web Development**
+- 🌱 Learning **React, Node.js, and modern web technologies**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, Python, Django, PHP, or UI/UX**
+- 📫 Reach me at **delwarjnu24@gmail.com**
+- 📱 Phone: **+8801749497676**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LhPBqH-0eKF-Je343QK4mCMopC0qjJ4Q/view?usp=sharing](https://drive.google.com/file/d/1LhPBqH-0eKF-Je343QK4mCMopC0qjJ4Q/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/delwar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delwar11" height="30" width="40" /></a>
-<a href="https://fb.com/delwar.7676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="delwar.7676" height="30" width="40" /></a>
-</p>
+<h2 align="left" id="delwar-tech">🛠️ Tech Stack</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+> Languages, frameworks, and tools I work with.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delwarjnu11&show_icons=true&locale=en&layout=compact" alt="delwarjnu11" /></p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔗 Connect With Me
+
+<a href="https://linkedin.com/in/delwar11/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+</a>
+<a href="mailto:delwarjnu24@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
+</a>
+<a href="https://facebook.com/delwar.7676/">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo" />
+</a>
+
+**Competitive Programming**
+
+<a href="https://www.leetcode.com/delwarJnu11/">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="leetcode logo" />
+</a>
+<a href="https://codeforces.com/profile/delwarJnu11/">
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="codeforces logo" />
+</a>
+<a href="https://www.hackerrank.com/delwarJnu11/">
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00EA64&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=delwarJnu11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=delwarJnu11&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="165" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwarJnu11&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="165" alt="languages graph" />
+
+---
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app?username=delwarJnu11&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=delwarJnu11&theme=dracula&hide_border=false&border_radius=5" width="100%" alt="activity graph" />
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing!;Feel+free+to+reach+out+🚀" alt="Footer" />
+
+---
+
+### ⭐ Star my repos if you find them useful! Let's connect and build something amazing! 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />

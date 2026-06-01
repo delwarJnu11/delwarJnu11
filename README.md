@@ -19,7 +19,7 @@
 - 🔭 Currently working on **Full Stack Web Development**
 - 🌱 Learning **React, Node.js, and modern web technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, Django, PHP, or UI/UX**
+- 💬 Ask me about **JavaScript, React, PHP, Laravel, Python, Django**
 - 📫 Reach me at **delwarjnu24@gmail.com**
 - 📱 Phone: **+8801749497676**
 
@@ -89,9 +89,9 @@
     </td>
     <td align="center" width="96">
       <a href="#delwar-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>PostgreSQL
+      <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#delwar-tech">
@@ -130,6 +130,20 @@
       <br>Figma
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="#delwar-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
 </table>
 
 ---
@@ -148,13 +162,13 @@
 
 **Competitive Programming**
 
-<a href="https://www.leetcode.com/delwarJnu11/">
+<a href="https://leetcode.com/u/delwarjnu24/">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="leetcode logo" />
 </a>
-<a href="https://codeforces.com/profile/delwarJnu11/">
+<a href="https://codeforces.com/profile/Delwar_Hossain/">
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="codeforces logo" />
 </a>
-<a href="https://www.hackerrank.com/delwarJnu11/">
+<a href="https://www.hackerrank.com/profile/delwarjnu24/">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00EA64&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo" />
 </a>
 
@@ -166,12 +180,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=delwarJnu11&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="165" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwarJnu11&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="165" alt="languages graph" />
-
----
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app?username=delwarJnu11&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 
 ---
 
